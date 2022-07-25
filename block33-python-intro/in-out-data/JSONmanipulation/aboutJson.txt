@@ -1,0 +1,6 @@
+JSON é um formato textual muito utilizado para integração de sistemas.
+
+Ele é baseado em um subconjunto de regras JavaScript, embora seja independente de linguagem.
+
+Alguns exemplos de utilização incluem comunicação back-end e front-end, e comunicação com sistemas externos (gateways de pagamento, por exemplo) ou internos (como um sistema de autenticação).
+
