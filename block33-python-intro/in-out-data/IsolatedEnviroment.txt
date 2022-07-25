@@ -1,4 +1,5 @@
-'venv'
+'venv' -> caixa virtual, sem medo das dependencias de um projeto impactar em outro
+tudo que se faz nesse projeto nao afeta outros
 
 serve para isolar ambientes de projetos.
 
