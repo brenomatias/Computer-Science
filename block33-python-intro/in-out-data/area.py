@@ -27,6 +27,13 @@ def circle(radius):
 
 
 # Hora de testá-lo! 
-print("Área do quadrado:", square(10))
-print("Área do retângulo:", rectangle(2, 2))
-print("Área do círculo:", circle(3))
+if __name__ == "__main__":
+    print("Área do quadrado:", square(10))
+    print("Área do retângulo:", rectangle(2, 2))
+    print("Área do círculo:", circle(3))
+
+
+# ***** if __name__ == "__main__":
+# acrescentar uma condicional ao módulo para somente exibir esses valores de teste quando o módulo for executado como script.
+
+# sem isso Os nossos valores de teste estão sendo exibidos quando importamos o módulo em 'people.py'
