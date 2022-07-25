@@ -1,0 +1,33 @@
+Você será capaz de:
+
+Utilizar o terminal interativo do Python;
+Entender e utilizar estruturas condicionais (se, senão se, senão) e de repetição (enquanto, para);
+Criar funções para reutilização de código;
+Escrever seus próprios módulos e importá-los em outros códigos.
+
+Python é uma linguagem de programação que busca simplicidade em sua sintaxe, resultando assim em legibilidade do código e maior produtividade.
+
+// 
+
+Muito popular hoje em dia devido à área de ciência de dados, essa linguagem pode ser utilizada em
+
+criação de aplicações web;
+automação de tarefas repetitivas;
+aplicativos desktop;
+aplicações para dispositivos móveis (embora para essa finalidade Python não seja tão popular e nem recomendada).
+
+
+// 
+//
+
+TERMINAL:
+
+terminal é chamado de REPL (Read-Eval-Print Loop)
+
+'python3' -  type in terminal
+
+
+// 
+
+ A fim de padronizar códigos escritos em Python, foi lançado um guia de estilo conhecido como PEP 8 ou Python Enhancement Proposal 8. A PEP 8 é um documento desenvolvido pela comunidade pythônica que visa aprimorar a legibilidade dos códigos
+
