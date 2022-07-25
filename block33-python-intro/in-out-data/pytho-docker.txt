@@ -1,0 +1,45 @@
+Como usar a imagem do Python no Docker?
+
+
+Opção 01: Usar o REPL do Python dentro do Docker. Para isso siga as instruções abaixo:
+
+# Baixe a última versão do python
+
+        docker pull python
+
+
+# Execute o REPL a partir da imagem baixada:
+
+        docker run -it --rm python
+
+(cai no terminal python dentro do docker)
+
+
+///
+
+
+Opção 02 : Criar um Dockerfile para o seu projeto
+
+**'Dockerfile'
+
+FROM python:3
+
+WORKDIR /usr/src/app
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+CMD [ "python", "./seu-arquivo.py" ]
+
+**'Dockerfile'
+
+Agora você pode construir e rodar a imagem Docker: (dentro do diretório da docker file)
+
+        docker build -t my-python-app .
+
+        docker run -it --rm --name my-running-app my-python-app
+
+
+Você pode notar que, um dos passos do Dockerfile é realizar um pip install recebendo como parâmetro o arquivo requirements.txt, o qual representa a listagem de bibliotecas necessárias para a execução de um projeto
