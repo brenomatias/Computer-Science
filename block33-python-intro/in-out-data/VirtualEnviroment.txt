@@ -1,0 +1,24 @@
+'venv'
+
+serve para isolar ambientes de projetos.
+
+Na prática, vamos instalar as bibliotecas em um diretório que está relacionado ao projeto. Assim, cada projeto pode ter suas próprias bibliotecas na versão que quiser. A ideia é a mesma do npm que vocês já vêm usando.
+
+
+'sudo apt install python3-venv'
+
+O comando para criação deste ambiente isolado é 'python3 -m venv .venv',
+
+ sendo que .venv é o nome do ambiente isolado. Este comando deve ser executado na raiz do projeto.
+
+
+
+Depois de criado, temos que ativar este ambiente para usá-lo. Isto é importante pois sempre que decidirmos trabalhar neste projeto devemos repetir este passo.
+
+ 'source .venv/bin/activate'
+
+
+Você pode conferir se o comando de ativação do ambiente virtual deu certo com o seguinte comando:
+ 'which python3'
+
+O resultado será o caminho para a pasta onde você criou seu ambiente virtual (pwd), acrescido de .venv/bin/python3.
