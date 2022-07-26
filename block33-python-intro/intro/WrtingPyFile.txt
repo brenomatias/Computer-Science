@@ -1,0 +1,3 @@
+TODO ARQUIVO COM EXTENSÃO 'py' É UM MÓDULO
+
+Módulos são declarados utilizando snake case, ou seja, com nomes minúsculos e quando possuírem mais de uma palavra, devem ser separadas por underscore (_).

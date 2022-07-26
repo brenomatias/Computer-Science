@@ -1,0 +1,42 @@
+Variáveis compostas
+
+***array = lista (como array é chamado em Python)
+
+    fruits = ["laranja", "maçã", "uva", "abacaxi"]
+
+fruits.append("banana")  # adicionando uma nova fruta
+
+fruits.extend(["pera", "melão", "kiwi"])  # acrescenta uma lista de frutas a lista original
+
+//
+
+
+***tupla(tuple) -> conjunto com numero 'T' de entidades - uma tupla e para uma unica entidade
+
+cada variavel representa uma qualidade de um UNICA entidade 
+
+por ex [nome, sobrenome, idade] - tupla
+
+array é [fruta1, fruta2, fruta3]
+
+    user = ("Will", "Marcondes", 42)
+
+//
+
+
+***Conjuntos (set)
+
+Um conjunto é uma coleção de elementos únicos e não ordenados. Conjuntos implementam operações de união, intersecção e outras.
+Sintaxe:
+
+permissions = {"member", "group"}  # elementos separados por vírgula, envolvidos por chaves
+
+permissions.add("root")  # adiciona um novo elemento ao conjunto
+
+
+//
+
+
+Dicionários (dict)
+Estrutura que associa uma chave a um determinado valor. É a representação do tão famoso objeto que utilizamos em JavaScript.
+Sintaxe:
