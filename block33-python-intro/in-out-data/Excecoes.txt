@@ -1,0 +1,13 @@
+Erros podem acontecer: um arquivo pode não existir, permissões podem faltar e codificações podem falhar. Por isso temos de garantir que, ainda que um erro ocorra, faremos o fechamento do nosso arquivo.
+Como conseguimos lidar com erros em Python? Vamos agora falar sobre exceções!
+Há pelo menos dois tipos de erros que podem ser destacados: erros de sintaxe e exceções.
+
+
+//
+
+
+Tratamento de exceções
+Para tratar exceções utilizamos o conjunto de instruções try, com as palavras reservadas try e except. O funcionamento dessa cláusula ocorre da seguinte forma:
+Se nenhuma exceção ocorrer, a cláusula except é ignorada e a execução da instrução try é finalizada.
+Se ocorrer uma exceção durante a execução da cláusula try, as instruções remanescentes na cláusula são ignoradas. Se o tipo da exceção ocorrida tiver sido previsto em algum except, então essa cláusula será executada.
+Se não existir nenhum tratador previsto para tal exceção, trata-se de uma exceção não tratada e a execução do programa termina com uma mensagem de erro.

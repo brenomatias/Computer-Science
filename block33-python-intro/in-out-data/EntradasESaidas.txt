@@ -1,0 +1,2 @@
+Existem algumas maneiras de nos comunicarmos com o exterior do programa em Python para receber dados, assim como existem maneiras de melhorar a exibição dos nossos resultados.
+
