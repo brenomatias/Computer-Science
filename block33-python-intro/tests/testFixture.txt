@@ -1,0 +1,11 @@
+Quando escrevemos testes, pensamos em cenários distintos que podem ocorrer no nosso sistema: "dado um arquivo com as seguintes linhas", "visto que temos um banco de dados com um dado registro" ou "a partir de um cliente web"
+
+
+Damos o nome de test fixture (ou apenas fixture) às precondições ou estados necessários para a execução de um teste.
+
+FIXTURE = ACESSÓRIOS
+
+Cada teste pode ter seu próprio cenário (contexto) ou compartilhá-lo com outros testes.
+
+
+⚠️ Atenção: Você deve ter notado o uso de um @ no código. Ele é o decorator do Python. Com ele podemos adicionar funcionalidades aos nossos códigos, "decorando" o que uma outra função faz (no caso acima, a função pytest.fixure). Não se preocupe com essa sintaxe por enquanto.

@@ -1,0 +1,13 @@
+Em testes automatizados (de unidade) é desejado que cada teste não interfira no estado manipulado por outro teste, e também que recursos externos (arquivos, internet, banco de dados) não atrapalhem a sua execução. Por isso, é muito comum a utilização de dublês de testes para simular estes recursos externos.
+
+Estes componentes simulados de software são chamados de mock (de forma genérica)
+
+Na literatura encontramos as técnicas de dublê com os nomes fakes, mocks, stubs e spies. De uma forma bem resumida, podemos defini-las da seguinte maneira:
+
+Fakes: Objetos que possuem implementações funcionais, porém normalmente simplificadas;
+
+Mocks: São pré programados para verificar as chamadas das funções que receberem;
+
+Stubs: Fornecem respostas predefinidas;
+
+Spies: São como stubs, mas também armazenam informações de como foram chamado
