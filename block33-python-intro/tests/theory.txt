@@ -11,3 +11,8 @@ Testes são importantes para automatizar a verificação do funcionamento corret
 No dia a dia da pessoa desenvolvedora nas empresas é comum que uma tarefa entregue passe por testes automatizados, validando que o requisito foi satisfeito.
 "Código sem testes é código ruim. Não importa o quão bem escrito"
 — Michael Feathers
+
+
+TO RUN TESTS:
+
+    'python3 -m pytest'
