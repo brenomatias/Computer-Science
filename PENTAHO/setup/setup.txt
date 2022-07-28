@@ -10,3 +10,21 @@ A JAR is a package file format typically used to aggregate many Java class files
 
 * Java Database Connectivity (JDBC) 
 Java Database Connectivity is an application programming interface for the programming language Java, which defines how a client may access a database
+
+application programming interface (API) that allows Java programs to access database management systems. 
+
+"api's sao interfaces para conexão entre sistemas ou servidores"
+
+
+
+-> TO START 
+
+go to repo 'data-integration' type “./spoon.sh”
+
+
+** MARKETPLACE: lugar para acessar plugins
+
+
+error de conexão PostgreSQL
+
+https://stackoverflow.com/questions/55038942/fatal-password-authentication-failed-for-user-postgres-postgresql-11-with-pg#:~:text=Restart%20the%20PostgreSQL%20service%20from,ALTER%20U 
