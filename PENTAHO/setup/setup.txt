@@ -23,6 +23,8 @@ go to repo 'data-integration' type “./spoon.sh”
 
 
 ** MARKETPLACE: lugar para acessar plugins
+https://marketplace.hitachivantara.com/pentaho/ 
+
 
 
 error de conexão PostgreSQL
