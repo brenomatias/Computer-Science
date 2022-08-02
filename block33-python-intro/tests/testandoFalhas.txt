@@ -1,0 +1,5 @@
+Testando falhas
+
+Podemos escrever testes que verificam que um erro deve ocorrer a partir de uma determinada entrada.
+
+    'python3 -m pytest'
