@@ -21,3 +21,11 @@ Classe Pessoa [se alimenta, respira e sente...]
 
 
 Método Construtor/Inicializador
+Após modelada nossa Classe do objeto, podemos partir para o Construtor. Na maioria das linguagens, o construtor cria a instância do objeto e já inicializa 
+os seus atributos.
+
+Em python, esta operação é dividida em dois métodos:
+new (Construtor)
+init (Inicializador).
+
+O Python já implementa estes métodos por padrão para cada nova classe criada. Mas, você pode implementá-los novamente, ou seja, reescrevê-los. É desse modo que customizamos nosso construtor/inicializador.

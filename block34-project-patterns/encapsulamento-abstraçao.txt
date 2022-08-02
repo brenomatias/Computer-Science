@@ -1,0 +1,4 @@
+Encapsulamento e Abstração
+O encapsulamento é um dos pilares da orientação a objetos. Por meio dele, podemos simplificar significativamente a programação, bem como proteger informações sigilosas ou sensíveis.
+
+existe uma convenção para indicar que a acessibilidade é privada: basta nomear um método ou atributo com o prefixo __ (dunder/duplo underline)
