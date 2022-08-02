@@ -35,3 +35,5 @@ print("Esta ligado?", liquidificador_vermelho.esta_ligado())
 liquidificador_vermelho.desligar()
 print("Esta ligado?", liquidificador_vermelho.esta_ligado())
 # Esta ligado? False
+
+#  como criar um método que permite acessar e alterar uma atributo privado em Python
