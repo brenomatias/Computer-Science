@@ -1,0 +1,7 @@
+padrão de projeto
+
+Para assegurar que o software seja legível e alterável, utilizam-se padrões, que funcionam como as regras de um código. Esses padrões tanto buscam evitar erros comuns quanto propõem um alinhamento de expectativa do que será encontrado no código.
+
+solução: frameworks
+
+Uma das grandes vantagens dos frameworks é o fato de já implementarem o trabalho denso, permitindo que foquemos em como utilizá-lo. Mesmo nesse cenário, não podemos deixar o código que iremos inserir desorganizado.
