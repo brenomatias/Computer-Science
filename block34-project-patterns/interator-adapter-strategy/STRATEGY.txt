@@ -1,0 +1,3 @@
+A equipe qual você faz parte está sendo reconhecida pela empresa! Dada a facilidade em lidar com os problemas, vocês receberam a missão de simplificar um código extenso, que sempre apresenta bugs. A manutenção do código em questão é temida por muitas pessoas desenvolvedoras.
+Antes de tudo, deve-se conferir o que este código deve fazer com base no relato da pessoa usuária:
+Depois de que o relatório é processado, costumamos emitir uma ordem de cobrança bancária para cada cliente que possui débito automático. Temos um código que realiza a comunicação com as principais instituições bancárias. Mas é frequente um dos bancos alterar a Api deles e nosso código para de funcionar, derrubando o sistema para todo mundo. 😕
