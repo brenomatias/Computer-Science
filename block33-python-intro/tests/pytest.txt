@@ -1,0 +1,3 @@
+Em nosso curso utilizaremos a biblioteca pytest, um framework que facilita a escrita de testes simples, mas capazes de testar funcionalidades complexas em aplicações e bibliotecas.
+
+    'python3 -m pip install pytest'

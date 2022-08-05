@@ -1,0 +1,14 @@
+To install the PDI plugins manually, follow these steps:
+
+
+Download the plugin you want to install.
+
+Unzip it in the appropriate subdirectory in: pentaho/design-tools/
+data-integration/plugins.
+
+ To determine the correct subdirectory, see the instructions for the plugin you are installing.
+
+
+PENTAHO plugins
+
+ https://marketplace.hitachivantara.com/pentaho/ 

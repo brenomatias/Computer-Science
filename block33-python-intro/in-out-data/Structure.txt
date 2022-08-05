@@ -1,0 +1,12 @@
+Estruturando uma aplicação
+
+Módulos:
+
+Um módulo é um arquivo que contém definições e instruções em Python.
+Qualquer file com final '.py' é um modulo
+
+
+Pacotes 📦
+
+Pacotes são módulos Python que contêm outros módulos e/ou pacotes, comumente separados por responsabilidades similares. Na prática, um pacote é um diretório que pode conter vários módulos (arquivos de extensão .py) e/ou outros pacotes.
+

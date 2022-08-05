@@ -1,0 +1,17 @@
+'sudo apt install python3-venv'
+
+O comando para criação deste ambiente isolado é         
+          'python3 -m venv .venv'
+
+sendo que .venv é o nome do ambiente isolado. Este comando deve ser executado na raiz do projeto.
+
+
+Arivar ambiente
+
+ 'source .venv/bin/activate'
+
+
+conferir 
+ 'which python3'
+
+-> resultado esperado: .venv/bin/python3.

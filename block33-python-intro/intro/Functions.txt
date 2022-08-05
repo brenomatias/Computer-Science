@@ -1,0 +1,19 @@
+def soma(x, y):
+    return x + y
+
+
+-> CHAMADAS DE FUNÇÃO:
+
+soma(2, 2)  # os parâmetros aqui são posicionais
+
+soma(x=2, y=2)  # aqui estamos nomeando os parâmetros
+
+
+
+***** Sintaxe
+
+def FUNCNAME (par1, par2):
+    return 
+
+
+... (tres pontinhos indicam que voce ainda esta na funçao e consegue passar outros comandos para a funçao)

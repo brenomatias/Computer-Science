@@ -1,0 +1,7 @@
+precisa iterar sobre uma coleção de elementos?
+
+padrão é conhecido como Iterator
+
+Ao receber uma coleção de entidades, uma classe que implementa o padrão de projeto Iterator deve ter uma interface específica — por exemplo, uma função next que retorna o próximo elemento da dita coleção.
+
+ Ao garantir que sua classe possui um iterador, você garante que ela tem uma função next que vai acessar o próximo elemento da sua coleção.
