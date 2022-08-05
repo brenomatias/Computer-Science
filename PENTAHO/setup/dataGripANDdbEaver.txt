@@ -1,0 +1,14 @@
+DATAGRIP:
+
+DataGrip is a database management environment for developers. It is designed to query, create, and manage databases. Databases can work locally, on a server, or in the cloud. Supports MySQL, PostgreSQL, Microsoft SQL Server, Oracle, and more
+
+https://www.jetbrains.com/datagrip/ 
+
+software para gerenciar banco de dados
+
+
+DBeaver:
+
+DBeaver is a SQL client software application and a database administration tool. For relational databases it uses the *JDBC application programming interface to interact with databases via a JDBC driver
+
+Java Database Connectivity (API)
