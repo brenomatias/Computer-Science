@@ -1,0 +1,7 @@
+como podemos encontrar uma solução (para o problema no codigo) e encaixá-la em nosso código
+
+Para isso: Padrões de Projeto e templates de solução
+
+
+ templates de código nos ajudam diretamente na solução de nossos problemas sem a necessidade de reinventarmos a roda
+ pois escolhendo o padrão adequado teremos certeza que nosso código vai evoluir para uma arquitetura conhecida e testada por milhares de outras pessoas programadoras.
