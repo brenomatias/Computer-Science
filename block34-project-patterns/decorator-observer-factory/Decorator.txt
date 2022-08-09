@@ -1,0 +1,3 @@
+Padrão Decorator
+
+O Decorator é um padrão de projeto estrutural que permite adicionar novos comportamentos e responsabilidades aos objetos de forma flexível.
