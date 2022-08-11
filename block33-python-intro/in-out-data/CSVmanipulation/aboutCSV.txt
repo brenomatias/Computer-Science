@@ -1,0 +1,4 @@
+O formato CSV (Comma Separated Values) é muito comum em exportações de planilhas de dados e base de dados. Foi utilizado por muito tempo antes de sua definição formal, o que gerou uma despadronização deste formato e o surgimento de vários dialetos.
+
+Ainda que seu nome indique que o delimitador seja a "," (vírgula), existem variações que utilizam ";" (ponto e vírgula) ou até mesmo tabulações ("\t").
+
