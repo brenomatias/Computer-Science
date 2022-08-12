@@ -1,0 +1,20 @@
+Padrão Factory
+
+
+O Padrão Factory pode ser dividido entre dois padrões classificados como padrões criacionais:
+
+Factory Method: é um padrão que implementa uma interface responsável por fabricar/criar outros objetos.
+
+
+Abstract Factory: é um padrão que permite produzir famílias de objetos relacionados. Por exemplo, considere que uma fábrica pode produzir diversos carros (Uno, Palio, Celta etc.) e diferentes tipos de motores (1.0, 1.4, 2.0). Essa estrutura simplifica a construção de um objeto Carro, ajudando na combinação dos diferentes elementos.
+
+
+Onde e/ou por que o Padrão Factory pode ser utilizado?**
+O Padrão Factory pode ser usado para:
+
+Substituir as Fixtures, a fim de facilitar a criação de testes;
+Simplificar a criação de objetos diferentes, pois dispensa conhecer os métodos e parâmetros da fábrica;
+
+Caso um novo tipo de objeto surja na regra de negócio, é fácil adaptar para que a fábrica também o produza;
+
+Fazer uso do princípio de responsabilidade única (SOLID), já que o código de criação do objeto se concentra em um único lugar.

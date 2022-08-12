@@ -1,0 +1,10 @@
+O Observer é um padrão comportamental, pois o foco é sobre as responsabilidades dos objetos.
+
+
+Uma classe observadora se responsabiliza por monitorar outro objeto
+oAssim, quando ocorrer alguma alteração ou eventos no objeto monitorado, o observador vai notificar os demais objetos do sistema.
+
+
+Para simplificar: lembre do que acontece quando você recebe uma nova mensagem no Facebook. Quantos objetos/componentes são atualizados?
+
+Será que cada objeto componente fica consultando o objeto listaDeMensagens freneticamente a cada segundo? 🤔 O que ocorre é justamente o conceito do padrão Observer, onde um objeto notifica os demais sobre essa atualização. O React Redux pode ser considerado uma implementação do padrão Observer.
