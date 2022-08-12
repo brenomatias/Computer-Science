@@ -1,7 +1,0 @@
-Ataques cibernéticos
-
-
-DoS / DDoS
-
-
-DDoS (Distributed Denial of Service) ou ataque distribuído de negação de serviço, tendo como objetivo tirar o serviço do ar, tornando-o temporariamente indisponível.
