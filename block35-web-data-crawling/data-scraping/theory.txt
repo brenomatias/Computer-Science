@@ -1,0 +1,15 @@
+Data crawling
+
+What is crawling? Web crawling (or data crawling) is used for data extraction and refers to collecting data from either the world wide web or, in data crawling cases – any document, file, etc. Traditionally, it is done in large quantities. Therefore, usually done with a crawler agent.
+
+
+Você será capaz de:
+
+Realizar requisições web;
+Analisar conteúdos HTML para extrair dados;
+Aplicar técnicas de raspagem para evitar problemas como bloqueio de acesso;
+Armazenar os dados obtidos em um banco de dados.
+
+
+A raspagem de dados tem sido muito útil em trabalhos jornalísticos, fornecendo dados para embasar matérias, mas também pode ser útil para outros fins, como comparar preços de produtos com a concorrência; automatização de processos maçantes como buscar artigos científicos em bases acadêmicas; recuperação de documentos em sites jurídicos; analisar perfis de redes sociais; recuperar dados públicos do governo e muitos outros lugares.
+📝 Anote aí: caso tenha repetido um processo mais de duas vezes, automatize-o.
