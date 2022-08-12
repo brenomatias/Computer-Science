@@ -1,0 +1,12 @@
+A comunicação com servidores HTTP e HTTPS se dá através de requisições, nas quais utilizamos o verbo para indicar que tipo de ação deve ser tomada para um dado recurso. 
+
+
+Devemos informar na requisição em qual recurso estamos atuando e no cabeçalho passamos algumas informações que podem ser importantes, como o tipo de resposta aceita ou o tipo de conteúdo sendo enviado.
+
+Vamos utilizar a biblioteca requests, que possui uma interface mais amigável e é bem difundida na comunidade.
+
+
+INSTALAR 'requests' em um ambiente virtual
+
+    python3 -m venv .venv && source .venv/bin/activate
+    python3 -m pip install requests
