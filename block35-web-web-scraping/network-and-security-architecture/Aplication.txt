@@ -1,0 +1,3 @@
+Aplicação
+
+A camada de aplicação contém os protocolos responsáveis por dar significado às informações, sendo a primeira camada passada para a mensagem.

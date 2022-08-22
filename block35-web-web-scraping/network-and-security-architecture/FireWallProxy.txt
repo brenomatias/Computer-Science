@@ -1,0 +1,6 @@
+Firewalls
+
+os firewalls são responsáveis por impedir ou permitir a passagem de determinados tráfegos em uma rede, seja de entrada ou saída.
+
+Proxy
+Outro componente que pode fornecer mais uma camada de segurança quando falamos de redes é o proxy. O proxy provém uma camada a mais de controle entre a internet e os dispositivos da rede, e pode ser utilizado para diversos fins.

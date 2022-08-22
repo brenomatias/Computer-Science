@@ -1,0 +1,23 @@
+Redes de Computadores
+
+protocolos
+componentes que formam as redes de computadores como, clients e servers.
+agregar segurança às nossas aplicações nas diversas redes às quais elas pertencem
+
+a internet, com seus protocolos e modelos, permite que qualquer pessoa troque informações com outras pessoas de vários lugares do mundo, de maneira fácil e rápida.
+
+
+REDES DE COMPUTADORES 
+
+Redes de computadores são conjuntos de software e hardware que permitem a comunicação entre diversos dispositivos como computadores, celulares e impressoras
+  -> compartilhando e transmitindo dados 
+
+Para trafegar uma informação em uma rede, essa informação é dividida em diversos pedaços
+*** Pacotes de dados
+
+
+
+PROTOCOLOS (regras de comunicação entre computadores)
+
+Para determinar o modo como essas informações são enviadas
+Conjuntos de regras que fazem esse controle de como os dados são trocados
