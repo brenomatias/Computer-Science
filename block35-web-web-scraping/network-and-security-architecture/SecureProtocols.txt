@@ -1,0 +1,5 @@
+SSL/TLS e HTTPS
+
+Tanto o SSL (Secure Sockets Layer) quanto o TLS (Transport Layer Security) são protocolos que implementam uma camada (layer) de segurança na rede, sendo o TLS o sucessor do SSL (simplificando).
+
+Já o HTTPS (Hyper Text Transfer Protocol Secure) nada mais é do que o protocolo HTTP, que vimos anteriormente, com uma camada adicional de segurança utilizando o protocolo SSL/TLS.
