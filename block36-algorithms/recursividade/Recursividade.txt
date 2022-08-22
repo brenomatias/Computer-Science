@@ -1,0 +1,1 @@
+ Uma função que chama a si mesma é chamada de recursiva. O processo para executar tal função recursiva é chamado de recursividade.

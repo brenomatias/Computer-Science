@@ -1,0 +1,6 @@
+Neste conteúdo, vamos aprender o que é recursividade, como desenvolver algoritmos recursivos e quando utilizá-los. Com essa técnica, podemos resolver problemas complexos transformando-os em problemas menores combinados a possíveis soluções.
+
+⚠️ Aviso: Ao usarmos a recursão, não temos nenhum benefício quanto ao desempenho do programa. Ela é mais utilizada para evidenciar a resposta.
+
+
+De olho na dica👀: "Os loops podem elevar o desempenho do seu programa, enquanto a recursão melhora o do seu programador. Escolha o que for mais importante para a sua situação."
