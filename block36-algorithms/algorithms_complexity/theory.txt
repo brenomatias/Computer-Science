@@ -18,3 +18,8 @@ O que é um algoritmo?
 Algoritmo Correto?
 
 podemos considerá-lo correto se, e somente se, nos entrega a saída esperada para todas as entradas, isto é, ele resolve aquele problema.
+
+
+COMPLEXIDADE de um algoritmo: A taxa de crescimento do tempo de execução de um algoritmo; quanto maior é essa taxa, maior é seu tempo de execução e, portanto, maior sua complexidade.
+
+ORDEM DE COMPLEXIDADE: quantidade de operações que o algoritmo realiza

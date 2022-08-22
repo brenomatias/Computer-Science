@@ -16,3 +16,14 @@ sum_array(array_com_cem_mil_numeros)
 
 # Já esse é dez mil vezes maior que o primeiro, então esse aqui executa em `100n`
 sum_array(array_com_um_milhão_de_numeros)
+
+
+# Note que conforme aumentamos o valor da entrada, o tempo de execução do algoritmo aumenta proporcionalmente, de acordo com uma taxa
+
+# É isso que chamamos de complexidade: A taxa de crescimento do tempo de execução de um algoritmo; quanto maior é essa taxa, maior é seu tempo de execução e, portanto, maior sua complexidade.
+
+
+# Ordem de Complexidade nada mais é do que a representação dessa proporção (ou taxa) de crescimento
+
+
+# A partir de agora, sempre que falarmos sobre a Ordem de Complexidade não iremos nos referir ao tempo em segundos que um algoritmo leva para ser executado, mas sim a quantidade de operações que ele realiza. 🙂
