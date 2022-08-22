@@ -1,0 +1,11 @@
+Algoritmos de Ordenação (sorting algorithms)
+
+fazem parte de uma categoria de algoritmos que buscam colocar elementos de uma sequência em uma determinada ordem definida. Esta ordem pode ser numérica, lexicográfica ou por qualquer outra característica. As razões para se ordenar uma sequência podem variar, desde facilitar a visualização até facilitar uma busca.
+
+
+
+Selection Sort
+
+Vamos entender qual é a ideia do Selection Sort?
+A ideia do Selection Sort é bem intuitiva:
+1️⃣ Encontre o menor elemento da lista (nesse caso, a ideia é ordenar em ordem alfabética); 2️⃣ Adicione o elemento encontrado em uma outra lista; 3️⃣ Repita o processo para todos os elementos restantes.
