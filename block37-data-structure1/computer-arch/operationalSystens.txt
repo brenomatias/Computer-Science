@@ -1,0 +1,8 @@
+os diversos sistemas operacionais compartilham de um conceito principal: realizam a gerência do hardware e sua interação com os softwares, controlando os processos, arquivos, memória, rede e os dispositivos conectados ao computador.
+
+, ele trabalha como um intermediário, fazendo com que software e hardware interajam corretamente, garantindo que todas as partes trabalhem juntas como um "time" e agindo como um líder responsável por manter a harmonia entre sistemas de memória, arquivos, processos, dispositivos, etc.
+
+O SO também decide como será realizada a distribuição dos diversos processos para serem executados pelo "cérebro" do computador, a CPU. A partir daí, ele acompanha os estados da execução desses processos realizando os devidos tratamentos, como voltar ou remover o processo da fila de processamentos.
+
+
+Mas o que são esses processos? 🤔 Tudo que você executa no computador é realizado com base em processos: um programa que você abre, um comando que você executa no terminal, etc. Agora vamos dar uma olhadinha, na prática, nos processos que estão sendo executados na nossa máquina nesse momento. Abra o terminal e execute o comando abaixo:
