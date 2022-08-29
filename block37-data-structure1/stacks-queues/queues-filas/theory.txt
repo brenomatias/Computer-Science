@@ -1,0 +1,16 @@
+Filas são problemas First In, First Out (FIFO).
+
+Assim como temos a mentalidade First In, Last Out para problemas que são pilhas
+
+recisamos de outra mentalidade para problemas que são filas: First In, First Out (FIFO).
+
+em chega primeiro recebe atendimento primeiro, nada mais justo. Assim, todos serão atendidos com uma demora mais parecida.
+
+Por exemplo, já parou para pensar como é que um processador com um único núcleo consegue rodar um sistema operacional inteiro, e mais 17 programas ao mesmo tempo? Cada programa demanda uma série de operações, e um núcleo só pode executar uma de cada vez; ele coloca as operações em uma fila, e resolve estas operações uma por uma, garantindo assim que todos os programas consigam rodar e prosseguir em suas tarefas.
+
+
+Push: Adiciona um elemento no final da fila
+
+Pop: Remove e retorna o primeiro elemento da fila
+
+Notou como a única diferença da fila é que a remoção (Pop) ocorre no começo, em vez de no final? Apenas essa diferença causa um funcionamento totalmente diferente, que soluciona problemas diferentes! Fica para você o desafio de implementar a operação Pop() da fila, que é o que a diferencia da Pilha.
