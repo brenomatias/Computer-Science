@@ -1,0 +1,12 @@
+O conhecimento de estrutura de dados te permite escolher qual a melhor opção na organização dos seus dados, em termos de espaço, performance de acesso e outras características. É importante conhecer como percorrer, fazer buscas e o que acontece quando adicionamos ou removemos novos itens.
+
+Neste cenário temos os arrays, cuja utilização correta nos permite manipular arranjos complexos com maior qualidade de processamento. Estão presentes em áreas de desenvolvimento com manipulação de dados, engenharia de dados e ciência de dados.
+
+A Estrutura de Dados pode ser implementada de várias maneiras e sua implementação pode variar de linguagem para linguagem. Para mantermos um padrão do que deve ser esperado do comportamento de cada ED quando implementada em linguagens diferentes, temos uma forma abstrata de definir estes comportamentos; o Tipo Abstrato de Dado. Lembra de classes abstratas e interfaces? É tipo isso!
+
+Tipos Abstratos de Dados (TAD) é um documento que serve para definir estruturas de dados com base em como são usadas e os comportamentos que fornecem. Eles não especificam como a estrutura de dados deve ser implementada, mas simplesmente fornecem uma interface mínima esperada e um conjunto de comportamentos. Pense assim, para você poder chamar um objeto de "carro", ele deve ter pelo menos as seguintes características:
+
+Quatro rodas
+Volante, acelerador, freio
+Ser movido a motor
+Espaço para pelo menos 1 motorista, e talvez passageiros
