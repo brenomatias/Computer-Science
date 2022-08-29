@@ -1,0 +1,5 @@
+O que é uma pilha?
+
+A estrutura de pilha é uma estrutura do tipo LIFO (Last In First Out). Ou seja, o último elemento a entrar na pilha é o primeiro a sair.
+
+Sempre devemos remover o último item que entrou na pilha, ou seja, o item mais acima. Uma remoção de algum item do meio dará um baita trabalho para reorganizar a pilha.

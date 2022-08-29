@@ -1,0 +1,3 @@
+Quase todas as linguagens utilizam a estrutura de pilhas para a gerência da execução de aplicações
+
+Durante a execução do programa, quando o interpretador do Python encontra uma chamada a uma função, ele salva o estado da função atual e então a adiciona na pilha de execução (call stack). Quando a função chamada termina a execução, o interpretador volta na pilha e lê a função que esta no topo para continuar a execução da aplicação.
