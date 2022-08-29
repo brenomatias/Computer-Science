@@ -1,0 +1,20 @@
+O que é um computador? 
+
+uma máquina que possui dois elementos principais: uma memória principal (como a memória RAM), onde podemos registrar e ler instruções e dados, e um processador (CPU), responsável por buscar tais informações, realizar os cálculos e armazenar os resultados novamente na memória.
+
+Memória armazena info e o processador transforma as informaçoes
+
+Um computador é um modelo básico de entrada e saída de dados
+
+O sistema binário foi inventado pelo matemático alemão Gottfried Leibniz, no século 18. 
+
+Os computadores processam informações baseando-se no sistema binário com o que chamamos de bits. Um bit é a menor unidade em um sistema digital e pode assumir o valor 0 ou 1
+
+Eletronicamente esse valor pode ser representado pela presença ou ausência de tensão ou corrente elétrica
+
+Códigos binários são como interruptores (chaves), abrindo e fechando a corrente
+(pulsos eletromagneticos)
+1 - corrente passando
+0 - sem corrente
+
+Os dispositivos que podem se comportar como chaves eletrônicas são os transistores, onde a tensão ou corrente na entrada resulta na presença ou ausência de uma tensão ou corrente na saída;

@@ -1,0 +1,15 @@
+Memória Principal - RAM
+
+RAM (Random Access Memory) is the hardware in a computing device where the operating system (OS), application programs and data in current use are kept so they can be quickly reached by the device's processor. RAM is the main memory in a computer.
+
+Na computação, a memória é um dispositivo ou sistema que é usado para armazenar informações para uso imediato em um computador ou hardware de computador, ou, ainda, dispositivos eletrônicos digitais. 
+
+armazenamento primário ou memória principal
+
+
+Memória principal: uma grande biblioteca
+A memória principal pode ser vista como uma grande biblioteca, possuindo diversas prateleiras, cada uma com a capacidade de armazenar alguns livros. Para organizar e tornar fácil a localização de um livro entre os corredores e seções, cada prateleira possui um identificador único, um endereço, que permite que um livro específico seja facilmente localizado.
+
+
+/// 
+
