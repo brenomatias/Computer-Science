@@ -1,0 +1,3 @@
+hashmap: forma de armazenar dados usando o conceito chave-valor
+
+A estratégia de armazenamento de dados da hashmap é submeter o dado a um procedimento matemático (hash function) para obter um endereço único onde ela será guardada (address).

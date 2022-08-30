@@ -1,2 +1,17 @@
+HasMap: um tipo de dado
 
 In computing, a hash table, also known as hash map, is a data structure that implements an associative array or dictionary. It is an abstract data type that maps keys to values
+
+O que é hashing em computação
+
+Hashing significa transformar um dado em uma representação numérica única.
+
+É atribuir um id para um determinado dado, mas diferente de um id sequencial, a composição do dado influencia diretamente no id gerado. Para isso, precisamos submeter o dado a alguma transformação matemática que considere a sua composição.
+
+Um exemplo do uso de hashing é a verificação da integridade de downloads.
+
+o procedimento de hashing tem uso em criptografia, armazenamento de senhas e compressão de arquivos, por exemplo
+
+hash -> represtação numerica de dados na saída
+
+14 -> # -> 4   (sempre que colocar o numero 14 o hash(#) transforma o valor inicial)
