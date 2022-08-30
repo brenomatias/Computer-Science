@@ -1,0 +1,15 @@
+Atenção: apenas objetos imutáveis podem ser utilizados como chave, ou seja, apenas aqueles objetos que depois de instanciados não podem ser alterados. Isso varia de linguagem para linguagem. Em Python, os objetos imutáveis são:
+
+- int;
+
+- float;
+
+- string;
+
+- tuple;
+
+- range;
+
+- byte;
+
+- frozenset.
