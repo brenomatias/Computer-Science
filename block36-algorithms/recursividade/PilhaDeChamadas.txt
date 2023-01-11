@@ -1,0 +1,7 @@
+Imagine um conjunto de pratos que estão um sobre o outro, ou seja, empilhados. Quando queremos pegar um prato, vamos pegar o do topo da pilha, certo? Em outro momento, se você quiser adicionar outro prato àquela pilha, você também irá adicioná-lo ao topo da pilha.
+Logo, podemos observar que uma pilha tem duas ações triviais:
+
+Inserir (Push)
+Retirar (Pop)
+
+A pilha de chamadas,também conhecida como call stack, organiza as sub-rotinas que estão executando no computador. Trazendo para o nosso contexto de recursividade, a pilha de chamadas registra a execução das funções, ou seja, qual está sendo executada, em que ponto ela deve retornar, qual é a proxima a ser chamada, etc.
