@@ -1,0 +1,25 @@
+ quando nossa função tiver que lidar com valores de entrada muito grandes, por exemplo: mil valores ao mesmo tempo? Ou quem sabe milhões de valores? Nesses casos, a eficiência do que estamos fazendo tornar-se importante e nós, pessoas desenvolvedoras, precisamos ser capazes de lidar com esses cenários!
+
+Você pode estar se perguntando: "Como saber quais algoritmos são mais eficientes para cada caso?” 🤔
+
+**** Métrica Universal para calcular a eficiência de um algoritmo que é válida para qualquer linguagem e paradigma de programação
+
+
+O que é um algoritmo?
+
+
+"Informalmente, um algoritmo é qualquer procedimento computacional bem definido que toma algum valor ou conjunto de valores como entrada e produz algum valor ou conjunto de valores como saída. Portanto, um algoritmo é uma sequência de etapas computacionais que transformam a entrada na saída" (CLRS - Introduction to Algorithms)
+
+
+"Um algoritmo é uma sequência de etapas computacionais que transformam a entrada na saída"
+"Um algoritmo é um conjunto de instruções que realizam uma tarefa." 
+
+
+Algoritmo Correto?
+
+podemos considerá-lo correto se, e somente se, nos entrega a saída esperada para todas as entradas, isto é, ele resolve aquele problema.
+
+
+COMPLEXIDADE de um algoritmo: A taxa de crescimento do tempo de execução de um algoritmo; quanto maior é essa taxa, maior é seu tempo de execução e, portanto, maior sua complexidade.
+
+ORDEM DE COMPLEXIDADE: quantidade de operações que o algoritmo realiza
