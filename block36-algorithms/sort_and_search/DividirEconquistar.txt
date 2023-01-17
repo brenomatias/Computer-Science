@@ -1,0 +1,11 @@
+Merge sort
+
+A ordenação por mistura (merge sort), é um algoritmo onde empregamos a técnica da divisão e conquista. Vamos dividindo a nossa coleção em porções menores até atingirmos uma coleção mínima. Em seguida, vamos misturando as porções de forma ordenada até que toda a coleção seja reunida novamente, resultando na ordenação.
+
+
+Quick Sort
+
+O quicksort é um algoritmo que também utiliza da técnica de divisão e conquista. Sua estratégia de ordenação consiste em determinar um elemento pivô (nome dado ao elemento que divide o array em porções menores). Em seguida, todos os elementos maiores que o pivô serão colocados à direita e os menores à esquerda. Com isto, o pivô será colocado em sua posição correta e teremos duas subcoleções não ordenadas ao seu redor. Recursivamente ordenamos os sub arrays, repetindo o mesmo processo de escolha do pivô e particionamento (divisão).
+Além disso, o quicksort possui dois procedimentos:
+Função quicksort: nela a coleção será particionada de acordo com o pivô;
+Função partition: ela é a chave para o algoritmo. Nela, a coleção será reorganizada.

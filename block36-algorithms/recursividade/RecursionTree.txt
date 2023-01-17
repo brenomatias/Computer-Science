@@ -1,0 +1,3 @@
+Árvore de Recursão
+
+O método da árvore de recursão pode ser utilizado para estimar o custo de um algoritmo. É um modo de analisarmos seu custo, o que nos ajuda a decidir se tal solução recursiva vale a pena ou não.
